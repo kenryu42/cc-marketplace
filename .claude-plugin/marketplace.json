@@ -1,0 +1,23 @@
+{
+  "name": "claude-marketplace",
+  "metadata": {
+    "description": "Bundled plugins for Claude Code including productivity tools, skills, workflows",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "J Liew",
+    "email": "jliew@420024lab.com"
+  },
+  "plugins": [
+    {
+      "name": "plan-export",
+      "description": "Auto-save your Claude Code plans to the project root when you finish planning.",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "kenryu42/claude-code-plan-export"
+      },
+      "category": "productivity"
+    }
+  ]
+}

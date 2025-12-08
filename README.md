@@ -1,0 +1,34 @@
+# Claude Marketplace
+
+A curated bundle of Claude Code plugins for enhanced productivity, skills, and workflows.
+
+## Installation
+
+Add marketplace to Claude Code:
+
+```bash
+/plugin marketplace add kenryu42/claude-marketplace
+```
+
+## Plugins
+
+### Plan Export
+
+**Description:** Auto-save your Claude Code plans to the project root when you finish planning
+
+**Categories:** Productivity
+
+**Install:**
+```bash
+/plugin install plan-export@claude-marketplace
+```
+
+**What you get:**
+- Automatic plan file export on planning completion
+- Plans saved to project root for easy reference
+
+**Repository:** https://github.com/kenryu42/claude-code-plan-export
+
+## License
+
+MIT
