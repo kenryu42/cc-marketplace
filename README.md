@@ -7,7 +7,7 @@ A curated bundle of Claude Code plugins for enhanced productivity, skills, and w
 Add marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add kenryu42/claude-marketplace
+/plugin marketplace add kenryu42/cc-marketplace
 ```
 
 ## Plugins
@@ -19,11 +19,13 @@ Add marketplace to Claude Code:
 **Categories:** Productivity
 
 **Install:**
+
 ```bash
-/plugin install plan-export@claude-marketplace
+/plugin install plan-export@cc-marketplace
 ```
 
 **What you get:**
+
 - Automatic plan file export on planning completion
 - Plans saved to project root for easy reference
 
