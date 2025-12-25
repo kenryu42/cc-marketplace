@@ -20,7 +20,7 @@
     },
     {
       "name": "safety-net",
-      "description": "Auto-save your Claude Code plans to the project root when you finish planning.",
+      "description": "Block destructive git and filesystem commands in Claude Code.",
       "source": {
         "source": "github",
         "repo": "kenryu42/claude-code-safety-net"

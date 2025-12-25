@@ -31,6 +31,25 @@ Add marketplace to Claude Code:
 
 **Repository:** https://github.com/kenryu42/claude-code-plan-export
 
+### Safety Net
+
+**Description:** Block destructive git and filesystem commands in Claude Code.
+
+**Categories:** Security
+
+**Install:**
+
+```bash
+/plugin install safety-net@cc-marketplace
+```
+
+**What you get:**
+
+- Prevent destructive git and filesystem commands
+
+**Repository:** https://github.com/kenryu42/claude-code-safety-net
+
+
 ## License
 
 MIT
