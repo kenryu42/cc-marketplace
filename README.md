@@ -1,4 +1,4 @@
-# Claude Marketplace
+# CC Marketplace
 
 A curated bundle of Claude Code plugins for enhanced productivity, skills, and workflows.
 
