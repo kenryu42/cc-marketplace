@@ -10,15 +10,6 @@
   },
   "plugins": [
     {
-      "name": "plan-export",
-      "description": "Auto-save your Claude Code plans to the project root when you finish planning.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/kenryu42/claude-code-plan-export.git"
-      },
-      "category": "productivity"
-    },
-    {
       "name": "safety-net",
       "description": "Block destructive git and filesystem commands in Claude Code.",
       "source": {
