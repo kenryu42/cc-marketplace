@@ -12,7 +12,7 @@ Add marketplace to Claude Code:
 
 ## Plugins
 
-### Safety Net
+### CC Safety Net
 
 **Description:** Block destructive git and filesystem commands in Claude Code.
 
@@ -28,7 +28,7 @@ Add marketplace to Claude Code:
 
 - Prevent destructive git and filesystem commands
 
-**Repository:** https://github.com/kenryu42/claude-code-safety-net
+**Repository:** https://github.com/kenryu42/cc-safety-net
 
 
 ## License

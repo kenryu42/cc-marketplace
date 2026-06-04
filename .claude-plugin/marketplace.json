@@ -14,7 +14,7 @@
       "description": "Block destructive git and filesystem commands in Claude Code.",
       "source": {
         "source": "url",
-        "url": "https://github.com/kenryu42/claude-code-safety-net.git"
+        "url": "https://github.com/kenryu42/cc-safety-net.git"
       },
       "category": "security"
     }
