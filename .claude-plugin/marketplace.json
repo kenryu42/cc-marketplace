@@ -1,17 +1,20 @@
 {
   "name": "cc-marketplace",
   "metadata": {
-    "description": "Bundled plugins for Claude Code including productivity tools, skills, workflows",
+    "description": "Bundled plugins for Coding CLI including productivity tools, skills, workflows",
     "version": "1.0.0"
   },
   "owner": {
     "name": "J Liew",
     "email": "jliew@420024lab.com"
   },
+  "renames": {
+    "safety-net": "cc-safety-net"
+  },
   "plugins": [
     {
-      "name": "safety-net",
-      "description": "Block destructive git and filesystem commands in Claude Code.",
+      "name": "cc-safety-net",
+      "description": "Block destructive commands and secret access in Coding CLI.",
       "source": {
         "source": "url",
         "url": "https://github.com/kenryu42/cc-safety-net.git"

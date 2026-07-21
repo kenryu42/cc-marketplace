@@ -1,32 +1,24 @@
 # CC Marketplace
 
-A curated bundle of Claude Code plugins for enhanced productivity, skills, and workflows.
-
-## Installation
-
-Add marketplace to Claude Code:
-
-```bash
-/plugin marketplace add kenryu42/cc-marketplace
-```
+A curated bundle of Coding CLI plugins for enhanced productivity, skills, and workflows.
 
 ## Plugins
 
 ### CC Safety Net
 
-**Description:** Block destructive git and filesystem commands in Claude Code.
+**Description:** Block destructive commands and secret access in Coding CLI.
 
 **Categories:** Security
 
 **Install:**
 
 ```bash
-/plugin install safety-net@cc-marketplace
+npx -y cc-safety-net install
 ```
 
 **What you get:**
 
-- Prevent destructive git and filesystem commands
+- Prevent destructive commands and secret access
 
 **Repository:** https://github.com/kenryu42/cc-safety-net
 
