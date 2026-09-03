@@ -2,6 +2,8 @@
 
 A curated bundle of Coding CLI plugins for enhanced productivity, skills, and workflows.
 
+This repository provides a native Codex marketplace and a Claude-compatible marketplace.
+
 ## Plugins
 
 ### CC Safety Net

@@ -1,0 +1,20 @@
+{
+  "name": "cc-marketplace",
+  "interface": {
+    "displayName": "CC Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "cc-safety-net",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kenryu42/cc-safety-net.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Security"
+    }
+  ]
+}
