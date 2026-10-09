@@ -17,7 +17,8 @@
       "description": "Block destructive commands and secret access in Coding CLI.",
       "source": {
         "source": "url",
-        "url": "https://github.com/kenryu42/cc-safety-net.git"
+        "url": "https://github.com/kenryu42/cc-safety-net.git",
+        "ref": "plugin"
       },
       "category": "security"
     }

@@ -8,7 +8,8 @@
       "name": "cc-safety-net",
       "source": {
         "source": "url",
-        "url": "https://github.com/kenryu42/cc-safety-net.git"
+        "url": "https://github.com/kenryu42/cc-safety-net.git",
+        "ref": "plugin"
       },
       "policy": {
         "installation": "AVAILABLE",
