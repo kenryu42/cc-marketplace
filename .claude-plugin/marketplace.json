@@ -21,6 +21,15 @@
         "ref": "plugin"
       },
       "category": "security"
+    },
+    {
+      "name": "just-so-you-know",
+      "description": "A side agent watches longer tasks and passes what it finds to the main agent automatically, with a report of how each note landed.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kenryu42/just-so-you-know.git"
+      },
+      "category": "productivity"
     }
   ]
 }
