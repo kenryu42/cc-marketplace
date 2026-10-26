@@ -26,7 +26,7 @@ npx -y cc-safety-net install
 
 ### Just So You Know
 
-**Description:** A side agent watches longer tasks and passes what it finds to the main agent automatically, with a report of how each note landed.
+**Description:** Side agents watch longer tasks and pass what they find to the main agent automatically. Add your own with a custom prompt, and see how each note landed.
 
 **Categories:** Productivity
 
@@ -40,10 +40,11 @@ If you already added cc-marketplace, `/plugin install just-so-you-know@cc-market
 
 **What you get:**
 
-- A side agent that checks the session about every 6 steps and only speaks up when something clears a high bar
-- Findings delivered straight to the main agent as hidden notes, with a toast showing the one-line summary
+- A side agent that checks the session every 6 steps (configurable) and only speaks up when something clears a high bar
+- Your own side agents, each a Markdown file with its own focus in `~/.claude/just-so-you-know/agents/`
+- Findings delivered straight to the main agent as hidden notes, all of one check's notes in one message, with a toast showing the one-line summary
 - A verdict on how the main agent took each note: helped, acknowledged, already aware or no reaction
-- `/jsyk` to write and open a page with every note across sessions (`~/.claude/just-so-you-know/report.html`)
+- `/jsyk` to turn side agents on or off, set how often they check, create a new one with Claude's help, and open a report of every note and how it landed
 
 **Repository:** https://github.com/kenryu42/just-so-you-know
 

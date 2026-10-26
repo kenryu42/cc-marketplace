@@ -24,7 +24,7 @@
     },
     {
       "name": "just-so-you-know",
-      "description": "A side agent watches longer tasks and passes what it finds to the main agent automatically, with a report of how each note landed.",
+      "description": "Side agents watch longer tasks and pass what they find to the main agent automatically. Add your own with a custom prompt, and see how each note landed.",
       "source": {
         "source": "url",
         "url": "https://github.com/kenryu42/just-so-you-know.git"
